@@ -271,7 +271,7 @@ Each gateway in `flint.config.json` supports:
 
 ### Kindling
 View Ignition backup files (.gwbk, .modl, .idb):
-1. Install [Kindling](https://github.com/ia-eknorr/kindling)
+1. Install [Kindling](https://github.com/inductiveautomation/kindling)
 2. Right-click on backup files → "Open with Kindling"
 
 ### Designer Launcher
